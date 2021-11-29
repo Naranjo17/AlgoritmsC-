@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tablasdemulti", "tablasdemulti\tablasdemulti.csproj", "{3F9D5018-0F0F-4FEA-A238-5618098DFC12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F9D5018-0F0F-4FEA-A238-5618098DFC12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F9D5018-0F0F-4FEA-A238-5618098DFC12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F9D5018-0F0F-4FEA-A238-5618098DFC12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F9D5018-0F0F-4FEA-A238-5618098DFC12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35ED4371-0473-4AD9-A4A9-7DE43343AED5}
+	EndGlobalSection
+EndGlobal

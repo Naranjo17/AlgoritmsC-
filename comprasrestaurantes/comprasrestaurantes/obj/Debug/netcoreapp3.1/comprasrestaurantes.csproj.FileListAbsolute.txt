@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\comprasrestaurantes\comprasrestaurantes\bin\Debug\netcoreapp3.1\comprasrestaurantes.exe
+C:\Users\PC\source\repos\comprasrestaurantes\comprasrestaurantes\bin\Debug\netcoreapp3.1\comprasrestaurantes.deps.json
+C:\Users\PC\source\repos\comprasrestaurantes\comprasrestaurantes\bin\Debug\netcoreapp3.1\comprasrestaurantes.runtimeconfig.json
+C:\Users\PC\source\repos\comprasrestaurantes\comprasrestaurantes\bin\Debug\netcoreapp3.1\comprasrestaurantes.runtimeconfig.dev.json
+C:\Users\PC\source\repos\comprasrestaurantes\comprasrestaurantes\bin\Debug\netcoreapp3.1\comprasrestaurantes.dll
+C:\Users\PC\source\repos\comprasrestaurantes\comprasrestaurantes\bin\Debug\netcoreapp3.1\comprasrestaurantes.pdb
+C:\Users\PC\source\repos\comprasrestaurantes\comprasrestaurantes\obj\Debug\netcoreapp3.1\comprasrestaurantes.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\comprasrestaurantes\comprasrestaurantes\obj\Debug\netcoreapp3.1\comprasrestaurantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\comprasrestaurantes\comprasrestaurantes\obj\Debug\netcoreapp3.1\comprasrestaurantes.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\comprasrestaurantes\comprasrestaurantes\obj\Debug\netcoreapp3.1\comprasrestaurantes.AssemblyInfo.cs
+C:\Users\PC\source\repos\comprasrestaurantes\comprasrestaurantes\obj\Debug\netcoreapp3.1\comprasrestaurantes.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\comprasrestaurantes\comprasrestaurantes\obj\Debug\netcoreapp3.1\comprasrestaurantes.dll
+C:\Users\PC\source\repos\comprasrestaurantes\comprasrestaurantes\obj\Debug\netcoreapp3.1\comprasrestaurantes.pdb
+C:\Users\PC\source\repos\comprasrestaurantes\comprasrestaurantes\obj\Debug\netcoreapp3.1\comprasrestaurantes.genruntimeconfig.cache

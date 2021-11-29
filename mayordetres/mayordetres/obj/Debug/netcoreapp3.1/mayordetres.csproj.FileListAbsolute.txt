@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\mayordetres\mayordetres\bin\Debug\netcoreapp3.1\mayordetres.exe
+C:\Users\PC\source\repos\mayordetres\mayordetres\bin\Debug\netcoreapp3.1\mayordetres.deps.json
+C:\Users\PC\source\repos\mayordetres\mayordetres\bin\Debug\netcoreapp3.1\mayordetres.runtimeconfig.json
+C:\Users\PC\source\repos\mayordetres\mayordetres\bin\Debug\netcoreapp3.1\mayordetres.runtimeconfig.dev.json
+C:\Users\PC\source\repos\mayordetres\mayordetres\bin\Debug\netcoreapp3.1\mayordetres.dll
+C:\Users\PC\source\repos\mayordetres\mayordetres\bin\Debug\netcoreapp3.1\mayordetres.pdb
+C:\Users\PC\source\repos\mayordetres\mayordetres\obj\Debug\netcoreapp3.1\mayordetres.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\mayordetres\mayordetres\obj\Debug\netcoreapp3.1\mayordetres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\mayordetres\mayordetres\obj\Debug\netcoreapp3.1\mayordetres.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\mayordetres\mayordetres\obj\Debug\netcoreapp3.1\mayordetres.AssemblyInfo.cs
+C:\Users\PC\source\repos\mayordetres\mayordetres\obj\Debug\netcoreapp3.1\mayordetres.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\mayordetres\mayordetres\obj\Debug\netcoreapp3.1\mayordetres.dll
+C:\Users\PC\source\repos\mayordetres\mayordetres\obj\Debug\netcoreapp3.1\mayordetres.pdb
+C:\Users\PC\source\repos\mayordetres\mayordetres\obj\Debug\netcoreapp3.1\mayordetres.genruntimeconfig.cache

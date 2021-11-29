@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\intercalacionmayusmin\intercalacionmayusmin\bin\Debug\netcoreapp3.1\intercalacionmayusmin.exe
+C:\Users\PC\source\repos\intercalacionmayusmin\intercalacionmayusmin\bin\Debug\netcoreapp3.1\intercalacionmayusmin.deps.json
+C:\Users\PC\source\repos\intercalacionmayusmin\intercalacionmayusmin\bin\Debug\netcoreapp3.1\intercalacionmayusmin.runtimeconfig.json
+C:\Users\PC\source\repos\intercalacionmayusmin\intercalacionmayusmin\bin\Debug\netcoreapp3.1\intercalacionmayusmin.runtimeconfig.dev.json
+C:\Users\PC\source\repos\intercalacionmayusmin\intercalacionmayusmin\bin\Debug\netcoreapp3.1\intercalacionmayusmin.dll
+C:\Users\PC\source\repos\intercalacionmayusmin\intercalacionmayusmin\bin\Debug\netcoreapp3.1\intercalacionmayusmin.pdb
+C:\Users\PC\source\repos\intercalacionmayusmin\intercalacionmayusmin\obj\Debug\netcoreapp3.1\intercalacionmayusmin.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\intercalacionmayusmin\intercalacionmayusmin\obj\Debug\netcoreapp3.1\intercalacionmayusmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\intercalacionmayusmin\intercalacionmayusmin\obj\Debug\netcoreapp3.1\intercalacionmayusmin.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\intercalacionmayusmin\intercalacionmayusmin\obj\Debug\netcoreapp3.1\intercalacionmayusmin.AssemblyInfo.cs
+C:\Users\PC\source\repos\intercalacionmayusmin\intercalacionmayusmin\obj\Debug\netcoreapp3.1\intercalacionmayusmin.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\intercalacionmayusmin\intercalacionmayusmin\obj\Debug\netcoreapp3.1\intercalacionmayusmin.dll
+C:\Users\PC\source\repos\intercalacionmayusmin\intercalacionmayusmin\obj\Debug\netcoreapp3.1\intercalacionmayusmin.pdb
+C:\Users\PC\source\repos\intercalacionmayusmin\intercalacionmayusmin\obj\Debug\netcoreapp3.1\intercalacionmayusmin.genruntimeconfig.cache

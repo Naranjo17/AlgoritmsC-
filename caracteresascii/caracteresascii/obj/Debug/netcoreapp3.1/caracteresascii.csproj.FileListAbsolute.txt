@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\caracteresascii\caracteresascii\bin\Debug\netcoreapp3.1\caracteresascii.exe
+C:\Users\PC\source\repos\caracteresascii\caracteresascii\bin\Debug\netcoreapp3.1\caracteresascii.deps.json
+C:\Users\PC\source\repos\caracteresascii\caracteresascii\bin\Debug\netcoreapp3.1\caracteresascii.runtimeconfig.json
+C:\Users\PC\source\repos\caracteresascii\caracteresascii\bin\Debug\netcoreapp3.1\caracteresascii.runtimeconfig.dev.json
+C:\Users\PC\source\repos\caracteresascii\caracteresascii\bin\Debug\netcoreapp3.1\caracteresascii.dll
+C:\Users\PC\source\repos\caracteresascii\caracteresascii\bin\Debug\netcoreapp3.1\caracteresascii.pdb
+C:\Users\PC\source\repos\caracteresascii\caracteresascii\obj\Debug\netcoreapp3.1\caracteresascii.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\caracteresascii\caracteresascii\obj\Debug\netcoreapp3.1\caracteresascii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\caracteresascii\caracteresascii\obj\Debug\netcoreapp3.1\caracteresascii.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\caracteresascii\caracteresascii\obj\Debug\netcoreapp3.1\caracteresascii.AssemblyInfo.cs
+C:\Users\PC\source\repos\caracteresascii\caracteresascii\obj\Debug\netcoreapp3.1\caracteresascii.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\caracteresascii\caracteresascii\obj\Debug\netcoreapp3.1\caracteresascii.dll
+C:\Users\PC\source\repos\caracteresascii\caracteresascii\obj\Debug\netcoreapp3.1\caracteresascii.pdb
+C:\Users\PC\source\repos\caracteresascii\caracteresascii\obj\Debug\netcoreapp3.1\caracteresascii.genruntimeconfig.cache

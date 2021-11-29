@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\movimientofrase\movimientofrase\bin\Debug\netcoreapp3.1\movimientofrase.exe
+C:\Users\PC\source\repos\movimientofrase\movimientofrase\bin\Debug\netcoreapp3.1\movimientofrase.deps.json
+C:\Users\PC\source\repos\movimientofrase\movimientofrase\bin\Debug\netcoreapp3.1\movimientofrase.runtimeconfig.json
+C:\Users\PC\source\repos\movimientofrase\movimientofrase\bin\Debug\netcoreapp3.1\movimientofrase.runtimeconfig.dev.json
+C:\Users\PC\source\repos\movimientofrase\movimientofrase\bin\Debug\netcoreapp3.1\movimientofrase.dll
+C:\Users\PC\source\repos\movimientofrase\movimientofrase\bin\Debug\netcoreapp3.1\movimientofrase.pdb
+C:\Users\PC\source\repos\movimientofrase\movimientofrase\obj\Debug\netcoreapp3.1\movimientofrase.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\movimientofrase\movimientofrase\obj\Debug\netcoreapp3.1\movimientofrase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\movimientofrase\movimientofrase\obj\Debug\netcoreapp3.1\movimientofrase.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\movimientofrase\movimientofrase\obj\Debug\netcoreapp3.1\movimientofrase.AssemblyInfo.cs
+C:\Users\PC\source\repos\movimientofrase\movimientofrase\obj\Debug\netcoreapp3.1\movimientofrase.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\movimientofrase\movimientofrase\obj\Debug\netcoreapp3.1\movimientofrase.dll
+C:\Users\PC\source\repos\movimientofrase\movimientofrase\obj\Debug\netcoreapp3.1\movimientofrase.pdb
+C:\Users\PC\source\repos\movimientofrase\movimientofrase\obj\Debug\netcoreapp3.1\movimientofrase.genruntimeconfig.cache

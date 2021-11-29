@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\factura\factura\bin\Debug\netcoreapp3.1\factura.exe
+C:\Users\PC\source\repos\factura\factura\bin\Debug\netcoreapp3.1\factura.deps.json
+C:\Users\PC\source\repos\factura\factura\bin\Debug\netcoreapp3.1\factura.runtimeconfig.json
+C:\Users\PC\source\repos\factura\factura\bin\Debug\netcoreapp3.1\factura.runtimeconfig.dev.json
+C:\Users\PC\source\repos\factura\factura\bin\Debug\netcoreapp3.1\factura.dll
+C:\Users\PC\source\repos\factura\factura\bin\Debug\netcoreapp3.1\factura.pdb
+C:\Users\PC\source\repos\factura\factura\obj\Debug\netcoreapp3.1\factura.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\factura\factura\obj\Debug\netcoreapp3.1\factura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\factura\factura\obj\Debug\netcoreapp3.1\factura.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\factura\factura\obj\Debug\netcoreapp3.1\factura.AssemblyInfo.cs
+C:\Users\PC\source\repos\factura\factura\obj\Debug\netcoreapp3.1\factura.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\factura\factura\obj\Debug\netcoreapp3.1\factura.dll
+C:\Users\PC\source\repos\factura\factura\obj\Debug\netcoreapp3.1\factura.pdb
+C:\Users\PC\source\repos\factura\factura\obj\Debug\netcoreapp3.1\factura.genruntimeconfig.cache
